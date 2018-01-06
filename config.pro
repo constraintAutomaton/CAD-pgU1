@@ -23,7 +23,7 @@ spin_with_part_entities yes
 spin_with_silhouettes yes
 tangent_edge_display phantom
 todays_date_note_format %yyyy-%mm-%dd
-search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Cerveau
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\core
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\mouvement
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\support_camera
 SEARCH_PATH	C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\raspberry-pi-3-model-b-reference-design-rpi-raspberrypi-raspberry-pi-solidworks-cad-assembly-1.snapshot.73\STEP
