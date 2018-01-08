@@ -1,2 +1,3 @@
 # CAD-pgU1
-Creo cad of pgU1
+
+The solid modelisation of the pgU1 robot
