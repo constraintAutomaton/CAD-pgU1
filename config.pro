@@ -26,4 +26,6 @@ todays_date_note_format %yyyy-%mm-%dd
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\core
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\mouvement
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\support_camera
-SEARCH_PATH	C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\raspberry-pi-3-model-b-reference-design-rpi-raspberrypi-raspberry-pi-solidworks-cad-assembly-1.snapshot.73\STEP
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\raspberry-pi-3-model-b-reference-design-rpi-raspberrypi-raspberry-pi-solidworks-cad-assembly-1.snapshot.73\STEP
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\motor_controller
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\wheel_motor
