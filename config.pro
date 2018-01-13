@@ -29,3 +29,5 @@ search_path C:\Users\Utilisateur\Documents\Creo\pgU1\support_camera
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\raspberry-pi-3-model-b-reference-design-rpi-raspberrypi-raspberry-pi-solidworks-cad-assembly-1.snapshot.73\STEP
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\motor_controller
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\wheel_motor
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\wheel
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\motor_camera
