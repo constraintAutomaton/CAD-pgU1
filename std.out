@@ -1,24 +1,3 @@
-WARNING - Current Session, linenum 0 : Configuration file parameter 'DRAWING_SETUP_FILE' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'FORMAT_SETUP_FILE' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'LAYOUT_SYMBOL_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'MDL_TREE_CFG_FILE' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PLOTTER_COMMAND' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_FORMAT_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_LIBRARY_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_MATERIAL_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_PLOT_CONFIG_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_SYMBOL_DIR' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_UNIT_LENGTH' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_UNIT_MASS' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'PRO_UNIT_SYS' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'SEARCH_PATH_FILE' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TEMPLATE_DESIGNASM' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TEMPLATE_DRAWING' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TEMPLATE_SHEETMETALPART' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TEMPLATE_SOLIDPART' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TERMINAL_COMMAND' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'TOLERANCE_STANDARD' can not be reset.
-WARNING - Current Session, linenum 0 : Configuration file parameter 'WELD_UI_STANDARD' can not be reset.
 Connection restored with License Server(s)  1
 Connection restored with License Server(s)  2
 Connection restored with License Server(s)  3
@@ -65,37 +44,81 @@ Connection restored with License Server(s)  27
 Warning Licensing error: Excessive reconnection with License server(s), detected.
 Connection restored with License Server(s)  28
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  28
-Warning Licensing error: Excessive reconnection with License server(s), detected.
 Connection restored with License Server(s)  28
 Warning Licensing error: Excessive reconnection with License server(s), detected.
 Connection restored with License Server(s)  28
 Warning Licensing error: Excessive reconnection with License server(s), detected.
 Connection restored with License Server(s)  27
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  27
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
-Connection restored with License Server(s)  26
+Connection restored with License Server(s)  24
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  24
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  24
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  24
 Warning Licensing error: Excessive reconnection with License server(s), detected.
 Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  21
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  22
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  24
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  22
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  23
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  24
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  25
+Warning Licensing error: Excessive reconnection with License server(s), detected.
+Connection restored with License Server(s)  25
 Warning Licensing error: Excessive reconnection with License server(s), detected.
