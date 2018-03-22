@@ -31,3 +31,8 @@ search_path C:\Users\Utilisateur\Documents\Creo\pgU1\motor_controller
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\wheel_motor
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\wheel
 search_path C:\Users\Utilisateur\Documents\Creo\pgU1\motor_camera
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\breadboard-3.snapshot.1\creo_part
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\arduino-uno-r3-1.snapshot.3\creo_assembly
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\arduino-uno-r3-1.snapshot.3\creo_assembly\part
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\motor-driver-l298n.snapshot.1\creo_assembly\part
+search_path C:\Users\Utilisateur\Documents\Creo\pgU1\Open source cad\motor-driver-l298n.snapshot.1\creo_assembly
