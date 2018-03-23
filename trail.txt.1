@@ -1528,3 +1528,12 @@ ll_check` 0
 !%CIExécution de la passe 4 sur 5.
 !%CIExécution de la passe 5 sur 5.
 !%CILe fichier d'image ombrée est prêt.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric va se fermer et les tâches non enregistrées seront perdues.
+!               : Voulez-vous vraiment quitter ?
+~ Activate `UI Message Dialog` `UI Message Dialog`
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
