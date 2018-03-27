@@ -35286,3 +35286,54 @@ A-A
 ~ Move `main_dlg_cur` `proe_win` 9 299 203 0 1026 1187 608 1536 864 2777492
 ~ Move `main_dlg_cur` `proe_win` 9 300 204 0 1538 1187 608 1536 864 2777602
 ~ MButtonDisarm `main_dlg_cur` `proe_win` 9 300 204 0 0 1187 608 1536 864 2777612
+~ Activate `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` 9 786 200 458752 512 1187 608 1536 864 2870180
+~ Wheel `main_dlg_cur` `proe_win` 9 784 201 458752 0 1187 608 1536 864 2870230
+~ Wheel `main_dlg_cur` `proe_win` 9 784 202 458752 0 1187 608 1536 864 2870280
+~ Wheel `main_dlg_cur` `proe_win` 9 784 202 458752 0 1187 608 1536 864 2870330
+~ Wheel `main_dlg_cur` `proe_win` 9 783 202 393216 0 1187 608 1536 864 2870490
+~ Wheel `main_dlg_cur` `proe_win` 9 783 202 393216 0 1187 608 1536 864 2870510
+~ Wheel `main_dlg_cur` `proe_win` 9 783 202 393216 0 1187 608 1536 864 2870530
+~ Wheel `main_dlg_cur` `proe_win` 9 783 201 393216 0 1187 608 1536 864 2870540
+~ Wheel `main_dlg_cur` `proe_win` 9 781 193 393216 1536 1187 608 1536 864 2870560
+~ Wheel `main_dlg_cur` `proe_win` 9 781 189 393216 1024 1187 608 1536 864 2870592
+~ Wheel `main_dlg_cur` `proe_win` 9 774 170 393216 512 1187 608 1536 864 2870647
+~ MButtonArm `main_dlg_cur` `proe_win` 9 777 155 0 2 1187 608 1536 864 2871062
+~ Move `main_dlg_cur` `proe_win` 9 774 155 0 514 1187 608 1536 864 2871072
+~ Move `main_dlg_cur` `proe_win` 9 770 154 0 1538 1187 608 1536 864 2871072
+~ Move `main_dlg_cur` `proe_win` 9 764 154 0 514 1187 608 1536 864 2871082
+~ Move `main_dlg_cur` `proe_win` 9 760 154 0 514 1187 608 1536 864 2871092
+~ Move `main_dlg_cur` `proe_win` 9 755 153 0 1538 1187 608 1536 864 2871102
+~ Move `main_dlg_cur` `proe_win` 9 747 152 0 1538 1187 608 1536 864 2871112
+~ Move `main_dlg_cur` `proe_win` 9 738 151 0 1538 1187 608 1536 864 2871112
+~ Move `main_dlg_cur` `proe_win` 9 730 150 0 1538 1187 608 1536 864 2871122
+~ Move `main_dlg_cur` `proe_win` 9 723 149 0 1538 1187 608 1536 864 2871132
+~ Move `main_dlg_cur` `proe_win` 9 716 148 0 1538 1187 608 1536 864 2871142
+~ Move `main_dlg_cur` `proe_win` 9 708 147 0 1538 1187 608 1536 864 2871142
+~ Move `main_dlg_cur` `proe_win` 9 701 146 0 1538 1187 608 1536 864 2871159
+~ Move `main_dlg_cur` `proe_win` 9 693 145 0 1538 1187 608 1536 864 2871167
+~ Move `main_dlg_cur` `proe_win` 9 686 144 0 1538 1187 608 1536 864 2871175
+~ Move `main_dlg_cur` `proe_win` 9 681 144 0 514 1187 608 1536 864 2871181
+~ Move `main_dlg_cur` `proe_win` 9 677 144 0 514 1187 608 1536 864 2871191
+~ Move `main_dlg_cur` `proe_win` 9 674 143 0 1538 1187 608 1536 864 2871191
+~ Move `main_dlg_cur` `proe_win` 9 672 143 0 514 1187 608 1536 864 2871201
+~ Move `main_dlg_cur` `proe_win` 9 671 142 0 1538 1187 608 1536 864 2871221
+~ Move `main_dlg_cur` `proe_win` 9 671 140 0 1026 1187 608 1536 864 2871231
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 671 140 0 0 1187 608 1536 864 2871241
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric va se fermer et les tâches non enregistrées seront perdues.
+!               : Voulez-vous vraiment quitter ?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
